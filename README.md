@@ -2,6 +2,7 @@
 The following repository contains certificates regarding course completion, awards, and licenses obtained by the GitHub account owner since 2019.
 
 ## Licenses & Certifications 2021
+
 ### Certificates of Competence
 - Provided by DQLAB, Universitas Multimedia Nusantara & Xeratic
   + [Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
@@ -60,6 +61,16 @@ The following repository contains certificates regarding course completion, awar
 - Provided by DCC & OPA 
   + [Python_Beginner_Class](licenses_certifications_2020/Python_Beginner_Class.pdf)
 
+### Badges
+- Provided by [Qwiklabs](https://www.qwiklabs.com/public_profiles/8ff4f9dc-f70c-44f0-ae1c-4e7850b3c937)
+  + [Baseline: Data,ML,AI](licenses_certifications_2020/badges_baseline_data_ml_ai.png) 
+
+    This Quest builds on a basic understanding of Google Cloud services. It is recommended that the student have earned a Badge by completing the hands-on labs in the Getting Started - Create and Manage Cloud Resources Quest before beginning.
+ 
+  + [BigQuery for Marketing Analysts](licenses_certifications_2020/badges_bigquery_for_marketing_analysts.png)
+    
+    Want to turn your marketing data into insights and build dashboards? Bring all of your data into one place for large-scale analysis and model building. Get repeatable, scalable, and valuable insights into your data by learning how to query it and using BigQuery. BigQuery is Google's fully managed, NoOps, low cost analytics database. With BigQuery you can query terabytes and terabytes of data without having any infrastructure to manage or needing a database administrator. BigQuery uses SQL and can take advantage of the pay-as-you-go model. BigQuery allows you to focus on analyzing data to find meaningful insights.
+    
 ## Licenses & Certifications 2019
 ### Certificate of Participation as Facilitator 
 - Provided by PT. Pos Indonesia (Persero) & DSI West Java Region
