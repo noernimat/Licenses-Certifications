@@ -2,11 +2,15 @@
 The following repository contains certificates regarding course completion, awards, and licenses obtained by the GitHub account owner since 2019.
 
 ## Licenses & Certifications 2021
+### Certificates of Competence
+- Provided by DQLAB, Universitas Multimedia Nusantara & Xeratic
+  + [Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
+  + [Project_Data_Analysis_for_Retail_Sales_Performance_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
 ### Certificates of Completion
 - Data Analyst Career Track provided by DQLAB, Universitas Multimedia Nusantara & Xeratic
-  + [_Python_for_Data_Professional_Beginner-Part_1](licenses_certifications_2021/Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_1.pdf)
-  + [_Python_for_Data_Professional_Beginner-Part_2](licenses_certifications_2021/Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_2.pdf)
-  + [_Python_for_Data_Professional_Beginner-Part_3](licenses_certifications_2021/Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_3.pdf)
+  + [_Python_for_Data_Professional_Beginner-Part_1](licenses_certifications_2021/_Python_for_Data_Professional_Beginner-Part_1.pdf)
+  + [_Python_for_Data_Professional_Beginner-Part_2](licenses_certifications_2021/_Python_for_Data_Professional_Beginner-Part_2.pdf)
+  + [_Python_for_Data_Professional_Beginner-Part_3](licenses_certifications_2021/_Python_for_Data_Professional_Beginner-Part_3.pdf)
   + [Fundamental_SQL_Using_FUNCTION_and_GROUP_BY](licenses_certifications_2021/Fundamental_SQL_Using_FUNCTION_and_GROUP_BY.pdf)
   + [Fundamental_SQL_Using_INNER_JOIN_and_UNION](licenses_certifications_2021/Fundamental_SQL_Using_INNER_JOIN_and_UNION.pdf)
   + [Fundamental_SQL_Using_SELECT_Statement](licenses_certifications_2021/Fundamental_SQL_Using_SELECT_Statement.pdf)
@@ -14,9 +18,7 @@ The following repository contains certificates regarding course completion, awar
   + [Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_1](licenses_certifications_2021/Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_1.pdf)
   + [Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_2](licenses_certifications_2021/Data_Visualization_with_Python_Matplotlib_for_Beginner-Part_2.pdf)
   + [Exploratory_Data_Analysis_with_Python_for_Beginner](licenses_certifications_2021/Exploratory_Data_Analysis_with_Python_for_Beginner.pdf)
-  + [Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
-  + [Project_Data_Analysis_for_Retail_Sales_Performance_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
-
+  
 ## Licenses & Certifications 2020
 ### Certificates of Specialization
 - Provided by Deeplearning.ai & by Coursera
