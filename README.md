@@ -43,16 +43,16 @@ The following repository contains certificates regarding course completion, awar
   + [DTS_FGA_UI_Data_Scientist_Training](licenses_certifications_2020/DTS_FGA_UI_Data_Scientist_Training.pdf)
 - Data Scientist Training provided by Cognitive Class & IBM Developer Skills Network
   + [Introduction_to_Data_Science](licenses_certifications_2020/Introduction_to_Data_Science.pdf)
-  + [Data_Science_Hands-on_with_Open_Source_Tools](licenses_certifications_2020/Data_Science_Hands-on_with_Open_Source_Tools.pdf)
+  + [Data_Science_Hands-On_with_Open_Source_Tools](licenses_certifications_2020/Data_Science_Hands-On_with_Open_Source_Tools.pdf)
   + [Data_Science_Methodology](licenses_certifications_2020/Data_Science_Methodology.pdf)
-  + [Python101_for_Data_Science](licenses_certifications_2020/Python101_for_Data_Science.pdf)
+  + [Python101_for_Data Science](licenses_certifications_2020/Python101_for_Data%20Science.pdf)
   + [Data_Analysis_with_Python](licenses_certifications_2020/Data_Analysis_with_Python.pdf)
   + [Data_Visualization_with_Python](licenses_certifications_2020/Data_Visualization_with_Python.pdf)
   + [Introduction_to_Cloud](licenses_certifications_2020/Introduction_to_Cloud.pdf)
   + [SQL_and_Relational_Databases_101](licenses_certifications_2020/SQL_and_Relational_Databases_101.pdf)
+  + [Machine_Learning_with_Python](licenses_certifications_2020/Machine_Learning_with_Python.pdf)
   + [Deep_Learning_Fundamentals](licenses_certifications_2020/Deep_Learning_Fundamentals.pdf)
   + [Data_Privacy_Fundamentals](licenses_certifications_2020/Data_Privacy_Fundamentals.pdf)
-  + [Machine_Learning_with_Python](licenses_certifications_2020/Machine_Learning_with_Python.pdf)
 - Provided by Dicoding & IBM
   + [Belajar_Machine_Learning_untuk_Pemula](licenses_certifications_2020/Belajar_Machine_Learning_untuk_Pemula.pdf)
 - Provided by Futurelearn, Deakin University, and Coventry University
