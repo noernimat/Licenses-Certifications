@@ -32,7 +32,7 @@ The following repository contains certificates regarding course completion, awar
 
 ### Certificates of Completion
 - Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
-  + [Bangkit_Academy_an_Exclusive_Machine_Learning_Academy_2020](licenses_certifications_2020/.pdf)
+  + [Bangkit_Academy_an_Exclusive_Machine_Learning_Academy_2020](https://github.com/noernimat/licenses-certifications/blob/main/licenses_certifications_2020/Bangkit_Academy_an_Exclusive_Machine_Learning_Academy_2020.pdf)
 - Provided by Dicoding
   + [Memulai_Pemrograman_Dengan_Python](licenses_certifications_2020/Memulai_Pemrograman_Dengan_Python.pdf)
 - DeepLearning.AI TensorFlow Developer provided by Deeplearning.ai & Coursera 
