@@ -28,7 +28,7 @@ The following repository contains certificates regarding course completion, awar
 
 ### Certificate of Participation as Facilitator
 - Provided by GDG Bandung & Data Science Indonesia
-  + [Woman_Techmakers_IWD_Cloud_Study_Jam_Fasilitating](licenses_certifications_2020/.pdf)
+  + [Woman_Techmakers_IWD_Cloud_Study_Jam_Fasilitating](licenses_certifications_2020/Woman_Techmakers_IWD_Cloud_Study_Jam_Fasilitating.pdf)
 
 ### Certificates of Completion
 - Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
