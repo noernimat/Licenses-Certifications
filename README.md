@@ -8,6 +8,8 @@ The following repository contains certificates regarding course completion, awar
   + [Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
   + [Project_Data_Analysis_for_Retail_Sales_Performance_Report](licenses_certifications_2021/Project_Data_Analysis_for_B2B_Retail_Customer_Analytics_Report.pdf)
 ### Certificates of Completion
+- Provided by DTS-PROA & DQLAB
+  + [DTS_PROA_DQLAB_Data_Analyst_Training](licenses_certifications_2021/DTS_PROA_DQLAB_Data_Analyst_Training.pdf)
 - Data Analyst Career Track provided by DQLAB, Universitas Multimedia Nusantara & Xeratic
   + [Python_for_Data_Professional_Beginner-Part_1](licenses_certifications_2021/_Python_for_Data_Professional_Beginner-Part_1.pdf)
   + [Python_for_Data_Professional_Beginner-Part_2](licenses_certifications_2021/_Python_for_Data_Professional_Beginner-Part_2.pdf)
