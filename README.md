@@ -1,6 +1,12 @@
 # Licenses and Certifications
 The following repository contains certificates regarding course completion, awards, and licenses obtained by the GitHub account owner since 2019.
 
+## Licenses & Certifications 2022
+
+### Certificates of Completion
+- Provided by the University of Helsinki & Minnalearn
+  + [Certificate of Completion - Elements of AI](licenses_certifications_2022/certificate-elements-of-ai.pdf)
+
 ## Licenses & Certifications 2021
 
 ### Certificates of Competence
