@@ -1,6 +1,15 @@
 # Licenses and Certifications
 The following repository contains certificates regarding course completion, awards, and licenses obtained by the GitHub account owner since 2019.
 
+## Licenses & Certification 2023
+- Provided by US-ASEAN Science, Technology, and Innovation Cooperation (STIC) Program
+  + [Certificate of Completion - Entrepreneurship and Innovation Track](licenses_certification_2023/14170_Noer%20Ni'mat%20Syamsul%20Kabir_2023.09.26_Track%20Complete%20Cert.pdf)
+
+### Certificates of Completion
+- Provided by the University of Helsinki & Minnalearn
+  + [Certificate of Completion - Elements of AI](licenses_certifications_2022/certificate-elements-of-ai.pdf)
+
+
 ## Licenses & Certifications 2022
 
 ### Certificates of Completion
